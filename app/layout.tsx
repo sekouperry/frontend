@@ -39,7 +39,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     return (
         <html lang="en">
             <head>
-                <title>ETS2LA</title>
+                <title>ETSS2LA</title>
                 <meta name="description" content="ETS2LA Frontend Page" />
                 <meta charSet="UTF-8" />
                 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
